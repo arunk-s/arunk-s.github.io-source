@@ -14,7 +14,7 @@ TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = u'en'
 THEME = '/home/arun/Work/blog/pelican-themes/pure-single'
 
-COVER_IMG_URL = 'images/wall.jpg'
+COVER_IMG_URL = 'http://i.imgur.com/nPLEHnN.jpg'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
