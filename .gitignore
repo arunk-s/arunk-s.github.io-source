@@ -1,0 +1,8 @@
+#Output Directory
+output/
+
+#Python
+.pyc
+
+*~
+
