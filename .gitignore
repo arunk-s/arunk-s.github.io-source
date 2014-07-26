@@ -1,6 +1,10 @@
 #Output Directory
 output/
 
+#Cache Directory
+cache/ArticlesGenerator-Readers
+cache/PagesGenerator-Readers
+
 #Python
 *.pyc
 
